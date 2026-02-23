@@ -1090,6 +1090,7 @@ MATERA:
 MATERA MVAR:
 	danielbdias: danielbdias!users.noreply.github.com until 2015-11-01
 MATRIX:
+	luis-silva: luis-silva!users.noreply.github.com from 2019-05-01 until 2020-09-01
 	yxd-ym: yxd-ym!users.noreply.github.com from 2021-11-01
 MATRIXX Software:
 	s-soo: stephensoo!bitgo.com until 2019-10-01
@@ -3640,6 +3641,7 @@ Matician:
 Matilda:
 	naveenbansalntnx: naveen.bansal!nutanix.com from 2022-05-01 until 2022-07-01
 Matillion:
+	ericmand: ericmand!users.noreply.github.com from 2023-01-01 until 2024-07-01
 	jorgeancal: jorgeancal!users.noreply.github.com from 2021-12-01
 	speza: speza!users.noreply.github.com from 2017-01-01
 Matlen Silver:

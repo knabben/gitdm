@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Cloudpear:
+	luis-guimaraes-exoawk: luis-guimaraes-exoawk!users.noreply.github.com until 2021-02-01
 Cloudreach:
 	He-Jingkai: He-JingKai!outlook.com, He-Jingkai!users.noreply.github.com from 2018-06-01 until 2019-02-01
 	NeuralSandwich: NeuralSandwich!users.noreply.github.com, sean!half.systems from 2017-09-01 until 2018-05-01
@@ -16311,5 +16313,3 @@ Emikra:
 	cgabbadon: cgabbadon!users.noreply.github.com
 Emind Software Co. Ltd.:
 	Chen-Gang: chengang!emindsoft.com.cn, gang.chen.5i5j!gmail.com, itaibh!gmail.com from 2015-04-01
-Eminence Robotics:
-	Dhi13man: dhiman.seal!groww.in from 2021-07-01 until 2021-09-01

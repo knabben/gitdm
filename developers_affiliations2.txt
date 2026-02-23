@@ -21176,7 +21176,7 @@ alexeykazakov: alexeykazakov!users.noreply.github.com, alkazako!redhat.com
 alexeyklyukin: alexeyklyukin!users.noreply.github.com, porkbird!icloud.com
 	Zalando SE until 2018-08-01
 	Custard Insurance Adjusters Inc. from 2018-08-01
-alexeypukhov: alexey.pukhov!appdynamics.com, AlexeyPukhov!users.noreply.github.com, apukhov!cisco.com, puhov.alexey!gmail.com
+alexeypukhov: AlexeyPukhov!users.noreply.github.com, alexey.pukhov!appdynamics.com, apukhov!cisco.com, puhov.alexey!gmail.com
 	Independent until 2013-12-11
 	AppDynamics LLC from 2013-12-11 until 2017-06-01
 	Cisco Systems Inc. from 2017-06-01

@@ -5,6 +5,24 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+pmint93: pmint93!users.noreply.github.com
+	Edumall.vn
+pmjohann: pmjohann!users.noreply.github.com
+	Netflow Consulting until 2016-01-01
+	Vodafone Business from 2016-01-01 until 2018-01-01
+	Centrum Circle from 2018-01-01 until 2019-03-01
+	QANplatform from 2019-03-01
+pmladek: pmladek!suse.cz
+	SUSE LLC
+pmlopes: paulo!mlopes.net, pmlopes!users.noreply.github.com
+	Red Hat Inc.
+pmm-sumo: pmm-sumo!users.noreply.github.com
+	Toptal LLC until 2015-07-01
+	ARHS Developments from 2015-07-01 until 2015-11-01
+	LogSenseApp from 2015-11-01 until 2019-12-01
+	Sumo Logic Inc. from 2019-12-01
+pmocek: pmocek!users.noreply.github.com
+	Independent
 pmoncadaisla: pablo.moncada!masmovil.com, pmoncadaisla!users.noreply.github.com
 	BQ until 2018-04-01
 	Grupo MASMOVIL from 2018-04-01
@@ -23651,21 +23669,3 @@ sosoriov: sosoriov!users.noreply.github.com
 	CódigoSelecto until 2014-06-01
 	Independent from 2014-06-01 until 2018-12-01
 	Delen from 2018-12-01
-sostheim: rick!sostheim.com
-	BrightRoll until 2014-12-01
-	Yahoo! Inc. from 2014-12-01 until 2016-04-01
-	Life360 from 2016-04-01 until 2017-04-01
-	Independent from 2017-04-01 until 2017-08-01
-	Udacity Inc. from 2017-08-01
-sostheim: sostheim!users.noreply.github.com
-	Samsung SDS until 2018-05-25
-	Amazon from 2018-05-25
-sotayamashita: sotayamashita!users.noreply.github.com
-	Deis Inc. (EngineYard) until 2014-04-01
-	CyberAgent from 2014-04-01 until 2017-04-01
-	Autify from 2017-04-01
-sotiris84: sotiris84!users.noreply.github.com
-	Independent until 2015-05-01
-	Pine Management from 2015-05-01 until 2016-08-01
-	CloudLayer from 2016-08-01 until 2018-05-01
-	Matworks from 2018-05-01

@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+BEA Systems:
+	junior: junior!users.noreply.github.com from 2007-12-01 until 2008-06-01
 BEADCORE:
 	ashu8912: ashu8912!users.noreply.github.com, ashughildiyal5!gmail.com from 2019-05-01 until 2019-09-01
 BEASYNESS:
@@ -5029,6 +5031,8 @@ Bonial:
 	bobthebuilderberlin: bobthebuilderberlin!users.noreply.github.com until 2020-06-01
 	juliusdanielherreraglomm: juliusdanielherreraglomm!users.noreply.github.com until 2020-03-01
 	pjungermann: pjungermann!users.noreply.github.com
+Bonicom:
+	lmctest: lmctest!users.noreply.github.com until 2014-01-01
 Bonitasoft Inc.:
 	laurentleseigneur: laurent.leseigneur!bonitasoft.com, laurentleseigneur!users.noreply.github.com from 2014-01-01
 Bonjour:
@@ -5659,6 +5663,7 @@ Bradbury Lab:
 Braddock Infotech:
 	akhilputhiry: akhilputhiry!gmail.com, akhilputhiry!users.noreply.github.com until 2014-10-01
 Bradesco:
+	luis-silva: luis-silva!users.noreply.github.com until 2019-05-01
 	osodracnai: ian.cardoso!suse.com from 2019-03-01 until 2020-01-01
 	yurieastwood: yurieastwood!users.noreply.github.com from 2015-05-01 until 2018-02-01
 Bradfordville:
@@ -10978,6 +10983,7 @@ Carevive:
 Carfax Inc.:
 	abtalerico: abtalerico!users.noreply.github.com
 	cweidinger: cweidinger!users.noreply.github.com from 2014-07-01
+	hscheib: hscheib!users.noreply.github.com until 2019-10-01
 	jasonmcintosh: jasonmcintosh!users.noreply.github.com, mcintoshj!gmail.com until 2019-07-01
 	jpke: j.patrick.earnest!gmail.com, jpke!users.noreply.github.com from 2017-04-01 until 2021-04-01
 	pie-r: pie-r!users.noreply.github.com from 2021-07-01 until 2022-12-01
@@ -13403,7 +13409,7 @@ Cisco Systems Inc.:
 	alanmquach: aquach!netflix.com, integsrtite!gmail.com until 2014-08-01
 	alexal: alexal!users.noreply.github.com until 2015-03-01
 	alexchan: alexc2!cisco.com
-	alexeypukhov: alexey.pukhov!appdynamics.com, AlexeyPukhov!users.noreply.github.com, apukhov!cisco.com, puhov.alexey!gmail.com from 2017-06-01
+	alexeypukhov: AlexeyPukhov!users.noreply.github.com, alexey.pukhov!appdynamics.com, apukhov!cisco.com, puhov.alexey!gmail.com from 2017-06-01
 	alexjuchina: alexju!foxmail.com, alexjuchina!users.noreply.github.com from 2020-01-01
 	alexpekurovsky: alexpekurovsky!users.noreply.github.com until 2015-07-01
 	alingamn: alingamn!cisco.com, alingamn!users.noreply.github.com
@@ -15965,5 +15971,3 @@ Cloudopia:
 	rvora: rvora!cloudopia.co, rvora!users.noreply.github.com
 Cloudoric:
 	ocontant: ocontant!users.noreply.github.com from 2021-12-01
-Cloudpear:
-	luis-guimaraes-exoawk: luis-guimaraes-exoawk!users.noreply.github.com until 2021-02-01

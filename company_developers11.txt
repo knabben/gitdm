@@ -2,6 +2,15 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Sixfold:
+	henrinormak: henri.normak!gmail.com from 2018-03-01 until 2022-07-01
+	taivokasper: taivo.kasper!gmail.com, taivokasper!users.noreply.github.com from 2019-12-01 until 2023-06-01
+Sixth Vowel:
+	reduz: reduzio!gmail.com from 2015-11-01 until 2018-04-01
+SixthFlow Research:
+	supekshala: kavindukv!live.com from 2023-07-01
+Sixtree:
+	fixl: fixl!users.noreply.github.com from 2015-10-01 until 2016-08-01
 Sixty:
 	toredash: tore.lonoy!gmail.com, toredash!users.noreply.github.com from 2017-04-01 until 2020-06-01
 Sixty AS:
@@ -5432,6 +5441,8 @@ Stevie:
 	giltsl: giltsl!gmail.com, giltsl!testfairy.com until 2014-10-01
 Steward:
 	jack-evans: jack-evans!users.noreply.github.com from 2015-06-01 until 2015-10-01
+Sthenos:
+	kondasoulas: kondasoulas!users.noreply.github.com from 2025-07-01
 Sthima:
 	mmarchini: mat!mmarchini.me, matheus!sthima.com, mmarchini!netflix.com until 2018-12-01
 	williangaspar: williangaspar360!gmail.com from 2017-10-01
@@ -16389,19 +16400,3 @@ Truconnect:
 	nirarg: nirarg!users.noreply.github.com until 2018-04-01
 True:
 	tuvovan: tuvovan!users.noreply.github.com, vovantu.hust!gmail.com
-True B.V.:
-	fahad19: fahad19!gmail.com until 2015-12-01
-	fliphess: fliphess!users.noreply.github.com from 2017-12-01 until 2019-01-01
-	fsdaniel: fsdaniel!users.noreply.github.com, god!liril.net
-	mhulscher: mhulscher!users.noreply.github.com from 2019-02-01 until 2019-05-01
-	renan: renan!users.noreply.github.com, renan.saddam!gmail.com until 2016-07-01
-True Digital:
-	safe2008: safe2008!users.noreply.github.com from 2020-12-01
-True Flava:
-	denysvitali: denys!denv.it, denysvitali!users.noreply.github.com until 2015-02-01
-True Link Financial:
-	annaborja: annaborja!users.noreply.github.com from 2018-01-01 until 2018-10-01
-True Nova:
-	paulbellamy: paul.a.bellamy!gmail.com, paulbellamy!users.noreply.github.com from 2019-08-01
-True Savings:
-	hongymagic: hongymagic!users.noreply.github.com from 2021-01-01

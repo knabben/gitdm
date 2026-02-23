@@ -2,6 +2,13 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Gravity Payments:
+	audrey-bond: audrey-bond!users.noreply.github.com from 2018-04-01 until 2019-09-01
+	audrey-brightloom: audrey-brightloom!users.noreply.github.com from 2018-04-01 until 2019-09-01
+Gravy Live:
+	paulerickson: paul.d.erickson!gmail.com, paulerickson!users.noreply.github.com until 2017-02-01
+Gravyty:
+	antgel: antgel!users.noreply.github.com from 2017-08-01 until 2022-09-01
 GrayMeta:
 	jasonhancock: jasonhancock!users.noreply.github.com from 2016-05-01 until 2020-04-01
 	jasonsattler: jasonsattler!users.noreply.github.com from 2017-10-01 until 2021-06-01
@@ -4854,6 +4861,8 @@ Homelike:
 	emptymalei: emptymalei!users.noreply.github.com from 2019-02-01 until 2019-11-01
 Homem Vitruviano:
 	endersonmenezes: endersonster!gmail.com until 2016-03-01
+Homeprotect:
+	luis-silva: luis-silva!users.noreply.github.com from 2022-03-01
 Homes:
 	wstewartii: wstewartii!users.noreply.github.com from 2017-11-01 until 2018-02-01
 Homes England:
@@ -5305,6 +5314,7 @@ Hound Technology Inc. dba Honeycomb:
 	bdarfler: bdarfler!gmail.com, bdarfler!users.noreply.github.com, bendarfler!honeycomb.io from 2020-11-01
 	cartermp: pcarter!fastmail.com, phcart!microsoft.com, phillip!honeycomb.io, phillipcarter!honeycomb.io from 2021-07-01
 	codeboten: 223565+codeboten!users.noreply.github.com, alrex.boten!gmail.com, codeboten!users.noreply.github.com from 2024-02-16
+	ericmand: ericmand!users.noreply.github.com from 2019-09-01 until 2023-01-01
 	fchikwekwe: faithchikwekwe!honeycomb.io, faithchikwekwe01!gmail.com, fchikwekwe!users.noreply.github.com, hello!faithchikwekwe.dev from 2022-11-28
 	ferd: ferd!users.noreply.github.com, mononcqc!ferd.ca from 2021-01-26
 	howardyoo: howardyoo!users.noreply.github.com from 2024-01-23

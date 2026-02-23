@@ -5,6 +5,24 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+sostheim: rick!sostheim.com
+	BrightRoll until 2014-12-01
+	Yahoo! Inc. from 2014-12-01 until 2016-04-01
+	Life360 from 2016-04-01 until 2017-04-01
+	Independent from 2017-04-01 until 2017-08-01
+	Udacity Inc. from 2017-08-01
+sostheim: sostheim!users.noreply.github.com
+	Samsung SDS until 2018-05-25
+	Amazon from 2018-05-25
+sotayamashita: sotayamashita!users.noreply.github.com
+	Deis Inc. (EngineYard) until 2014-04-01
+	CyberAgent from 2014-04-01 until 2017-04-01
+	Autify from 2017-04-01
+sotiris84: sotiris84!users.noreply.github.com
+	Independent until 2015-05-01
+	Pine Management from 2015-05-01 until 2016-08-01
+	CloudLayer from 2016-08-01 until 2018-05-01
+	Matworks from 2018-05-01
 soudaburger: soudaburger!users.noreply.github.com
 	Solutionary until 2015-02-01
 	The Home Depot from 2015-02-01 until 2016-01-01
@@ -23977,27 +23995,3 @@ yaronf: yaronf!users.noreply.github.com
 	Intuit Inc. from 2015-09-01
 yaronha: yaronh!iguaz.io, yaronha!users.noreply.github.com
 	iguazio
-yaronp68: yaronp68!users.noreply.github.com
-	GigaSpaces until 2015-08-01
-	Stratoscale from 2015-08-01 until 2017-05-01
-	Independent from 2017-05-01 until 2017-07-01
-	Independent from 2017-07-01 until 2018-01-01
-	Risk Focus from 2018-01-01 until 2018-02-01
-	Elasticsearch Inc. from 2018-02-01 until 2018-09-01
-	VMware Inc. from 2018-09-01 until 2022-01-01
-	Redis from 2022-01-01
-yaronr: yaronr!users.noreply.github.com
-	ioGlue
-yaronsumel: yaronsumel!users.noreply.github.com
-	OnePlus until 2014-09-01
-	Independent from 2014-09-01 until 2014-12-01
-	Promo from 2014-12-01 until 2016-09-01
-	Digota from 2016-09-01 until 2018-09-01
-	simplesurance from 2018-09-01 until 2018-11-01
-	HelloFresh from 2018-11-01 until 2019-03-01
-	Proofpoint Inc. from 2019-03-01 until 2025-01-01
-	Stealth AI Startup from 2025-01-01
-yaronya: yaronya!users.noreply.github.com
-	Verint Systems Inc. until 2016-01-01
-	SundaySky from 2016-01-01 until 2020-01-01
-	env0 from 2020-01-01

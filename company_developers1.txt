@@ -4599,6 +4599,7 @@ Accenture Global Solutions Limited:
 	karl-run: k!rl.run until 2017-04-01
 	kdessai19: kdessai19!users.noreply.github.com from 2015-11-01 until 2019-07-01
 	kgusarov: kgusarov!users.noreply.github.com, konstantins.gusarovs!gmail.com from 2014-04-01 until 2015-08-01
+	kondasoulas: kondasoulas!users.noreply.github.com until 2014-08-01
 	kristiansvalland: kristiansvalland!users.noreply.github.com from 2019-08-01 until 2021-10-01
 	kunjee17: kunjee17!users.noreply.github.com from 2015-04-01 until 2017-03-01
 	leo-yung: leo-yung!users.noreply.github.com until 2021-06-01
@@ -11128,7 +11129,7 @@ AppDynamics LLC:
 	DebajitDas: debajida!cisco.com, debajit.009!gmail.com, debajit.das!appdynamics.com, debajitdas!users.noreply.github.com from 2019-03-01
 	a-staebler: astaebler!signalfx.com from 2016-09-01 until 2019-02-01
 	akshitgrover: akshit.grover2016!gmail.com, akshitgrover!users.noreply.github.com from 2021-10-01
-	alexeypukhov: alexey.pukhov!appdynamics.com, AlexeyPukhov!users.noreply.github.com, apukhov!cisco.com, puhov.alexey!gmail.com from 2013-12-11 until 2017-06-01
+	alexeypukhov: AlexeyPukhov!users.noreply.github.com, alexey.pukhov!appdynamics.com, apukhov!cisco.com, puhov.alexey!gmail.com from 2013-12-11 until 2017-06-01
 	aminmithil: aminmithil!users.noreply.github.com from 2017-05-01 until 2017-12-01, from 2018-06-01 until 2021-12-01
 	darwhs: darwhs!users.noreply.github.com from 2017-02-01 until 2019-03-01
 	eloyekunle: elijah.oyekunle!ehealthnigeria.org, eloyekunle!gmail.com, eloyekunle!users.noreply.github.com from 2021-11-01
@@ -15979,5 +15980,3 @@ BE EXCELLENT:
 	rpemsel: rpemsel!users.noreply.github.com from 2014-09-01 until 2015-11-01
 BE GROUP:
 	vchitai: 1512474!student.hcmus.edu.vn, vchitai!users.noreply.github.com from 2021-03-01 until 2022-08-01
-BEA Systems:
-	junior: junior!users.noreply.github.com from 2007-12-01 until 2008-06-01

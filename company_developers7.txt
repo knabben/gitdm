@@ -11452,7 +11452,7 @@ KoreKontrol:
 	marek-obuchowicz: marek-obuchowicz!users.noreply.github.com from 2017-12-01
 Korea:
 	nam-jaehyun: jn!accuknox.com from 2020-03-01 until 2020-06-01
-Korea Financial Telecommunications & Clearings Institute (KFTC):
+Korea Financial Telecommunications & Clearings Institute:
 	jongwooo: jongwooo!users.noreply.github.com, jongwooo.han!gmail.com from 2026-02-23
 Korelogic:
 	lrobertson39: lrobertson39!hotmail.com from 2017-01-01 until 2019-01-01

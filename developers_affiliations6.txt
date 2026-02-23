@@ -5,6 +5,10 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+joeblubaugh: joe!lightstep.com, joeblubaugh!users.noreply.github.com
+	Twitter Inc. until 2016-11-01
+	LightStep Inc. from 2016-11-01 until 2022-03-01
+	Grafana Labs from 2022-03-01
 joebowbeer: joebowbeer!users.noreply.github.com
 	Google LLC until 2014-12-01
 	Independent from 2014-12-01 until 2017-11-01
@@ -10669,6 +10673,12 @@ kon3m: aakash.dokka!gmail.com
 	Independent until 2019-06-01
 	Fountane from 2019-06-01 until 2021-05-01
 	Infracloud Technologies INC from 2021-05-01
+kondasoulas: kondasoulas!users.noreply.github.com
+	Accenture Global Solutions Limited until 2014-08-01
+	Vodafone Group Plc. from 2014-08-01 until 2016-02-01
+	OTE from 2016-02-01 until 2022-05-01
+	Workable Inc from 2022-05-01 until 2025-07-01
+	Sthenos from 2025-07-01
 kondaurovDev: a.sinchinov!gmail.com, kondaurovDev!users.noreply.github.com
 	Parallels Research until 2014-05-01
 	Odin Health from 2014-05-01 until 2016-07-01
@@ -16528,6 +16538,10 @@ lmbleandro: lmbleandro2010!gmail.com
 	Cortex from 2021-04-01
 lmcarreiro: leonardo.mcarreiro!gmail.com, lmcarreiro!users.noreply.github.com
 	Petrobras
+lmctest: lmctest!users.noreply.github.com
+	Bonicom until 2014-01-01
+	i3 CZ s.r.o. from 2014-01-01 until 2020-02-01
+	FABA CAPITAL from 2020-02-01
 lmdaly: haidermail72!gmail.com, lmdaly!users.noreply.github.com, louise.m.daly!intel.com
 	Independent until 2015-01-01
 	Intel Corporation from 2015-01-01 until 2015-08-01
@@ -18124,6 +18138,11 @@ luis-guimaraes-exoawk: luis-guimaraes-exoawk!users.noreply.github.com
 	Exoawk from 2021-06-01
 luis-henrix: henrix!camandro.org, lhenriques!suse.com
 	SUSE LLC
+luis-silva: luis-silva!users.noreply.github.com
+	Bradesco until 2019-05-01
+	MATRIX from 2019-05-01 until 2020-09-01
+	European from 2020-09-01 until 2022-03-01
+	Homeprotect from 2022-03-01
 luis5tb: luis5tb!gmail.com, luis5tb!users.noreply.github.com
 	Red Hat Inc.
 luisbg: luis!debethencourt.com, luisbg!kernel.org, luisbg!osg.samsung.com, luisbg!users.noreply.github.com, pushbit!gmail.com
@@ -23744,19 +23763,3 @@ matthewjohnston4: matthewjohnston4!outlook.com, matthewjohnston4!users.noreply.g
 	Slack Technologies Inc. from 2018-04-01
 matthewloring: matthewloring!users.noreply.github.com
 	Google LLC
-matthewmcnew: matthewmcnew!gmail.com, matthewmcnew!users.noreply.github.com, me!mattmcnew.com, mmcnew!pivotal.io
-	Pivotal
-matthewmichihara: matthew.michihara!gmail.com, matthewmichihara!users.noreply.github.com
-	Lookout Inc until 2014-03-01
-	Foursquare Labs Inc. from 2014-03-01 until 2018-02-01
-	Independent from 2018-02-01 until 2019-03-01
-	Google LLC from 2019-03-01
-matthewmodestino: matthewmodestino!users.noreply.github.com
-	TELUS until 2016-03-01
-	Splunk Inc. from 2016-03-01
-matthewoliver: matt!oliver.net.au
-	Rackspace until 2017-04-28
-	Independent from 2017-04-28
-mattheworiordan: mattheworiordan!users.noreply.github.com
-	Econsultancy until 2014-09-01
-	Ably Real-Time Ltd. from 2014-09-01

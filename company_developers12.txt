@@ -2,6 +2,22 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+True B.V.:
+	fahad19: fahad19!gmail.com until 2015-12-01
+	fliphess: fliphess!users.noreply.github.com from 2017-12-01 until 2019-01-01
+	fsdaniel: fsdaniel!users.noreply.github.com, god!liril.net
+	mhulscher: mhulscher!users.noreply.github.com from 2019-02-01 until 2019-05-01
+	renan: renan!users.noreply.github.com, renan.saddam!gmail.com until 2016-07-01
+True Digital:
+	safe2008: safe2008!users.noreply.github.com from 2020-12-01
+True Flava:
+	denysvitali: denys!denv.it, denysvitali!users.noreply.github.com until 2015-02-01
+True Link Financial:
+	annaborja: annaborja!users.noreply.github.com from 2018-01-01 until 2018-10-01
+True Nova:
+	paulbellamy: paul.a.bellamy!gmail.com, paulbellamy!users.noreply.github.com from 2019-08-01
+True Savings:
+	hongymagic: hongymagic!users.noreply.github.com from 2021-01-01
 True Tickets:
 	athak: athak!users.noreply.github.com from 2020-03-01
 	jambonrose: jambonrose!users.noreply.github.com from 2019-01-01
@@ -7365,6 +7381,7 @@ Vodafone Group Plc.:
 	katul979: atul.kumar!swiggy.in from 2014-06-01
 	kiich: kiichirookano!gmail.com, kokano!hotels.com
 	kitos9112: kitos9112!users.noreply.github.com from 2019-05-01
+	kondasoulas: kondasoulas!users.noreply.github.com from 2014-08-01 until 2016-02-01
 	mattdarwin: mattdarwin!users.noreply.github.com until 2016-12-01
 	mbianchidev: mbianchidev!users.noreply.github.com from 2017-11-01 until 2018-05-01
 	mbovo: manuel.bovo!gmail.com, mbovo!users.noreply.github.com until 2016-05-01
@@ -11205,6 +11222,7 @@ Workable Inc:
 	LavredisG: LavredisG!users.noreply.github.com from 2023-10-01
 	PanOS1: PanOS1!users.noreply.github.com, adamopoulos!workable.com from 2017-05-01
 	gtseres: george.tseres!gmail.com, gtseres!users.noreply.github.com from 2017-11-01
+	kondasoulas: kondasoulas!users.noreply.github.com from 2022-05-01 until 2025-07-01
 	pantelis-karamolegkos: pantelis-karamolegkos!users.noreply.github.com from 2019-05-01
 	pavlospt: p.tournaris!gmail.com, pavlospt!users.noreply.github.com from 2016-03-01 until 2019-11-01
 	pkaramol: pkaramol!hotmail.com, pkaramol!users.noreply.github.com from 2019-05-01
@@ -16372,22 +16390,3 @@ co.brick:
 	lszymik: lszymik!users.noreply.github.com from 2019-09-01 until 2022-08-01
 coLanguage:
 	MrMarble: contact!mrmarble.dev from 2016-05-01 until 2018-09-01
-coModule:
-	KumarAmitMehta: gmate.amit!gmail.com from 2015-04-01 until 2016-09-01
-coala Association:
-	Techievena: Techievena!users.noreply.github.com, abinashsena!gmail.com from 2018-07-01 until 2019-02-01
-	ayan-b: ayan-b!users.noreply.github.com, ayanbanerjee7777!gmail.com, ayanbn7!gmail.com from 2018-10-01 until 2019-05-01
-	prashant0598: nigamprashant.0598!gmail.com, prashant0598!users.noreply.github.com from 2017-10-01 until 2017-12-01
-coala Association e.V.:
-	aptrishu: code.rishus23!gmail.com from 2017-12-01 until 2018-08-01
-	palash25: npalash25!gmail.com, palash25!users.noreply.github.com from 2018-03-01 until 2018-08-01
-cobinhood:
-	thlu-cobinhood: thlu-cobinhood!users.noreply.github.com
-cocaine:
-	maxaudron: audron!cocaine.farm, maxaudron!users.noreply.github.com
-cocotb:
-	imphil: imphil!philipp-wagner.com, imphil!users.noreply.github.com, philipp.wagner!tum.de from 2021-10-01 until 2021-12-01
-codar:
-	githubcdr: githubcdr!users.noreply.github.com
-code:
-	meichstedt: meichstedt!users.noreply.github.com until 2015-05-01

@@ -2,6 +2,8 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+Eminence Robotics:
+	Dhi13man: dhiman.seal!groww.in from 2021-07-01 until 2021-09-01
 Eminet:
 	rbeuque74: rbeuque74!users.noreply.github.com until 2015-09-01
 Emirates Group:
@@ -1197,6 +1199,8 @@ Equipe SIGA:
 	ltellesfl: ltellesfl!users.noreply.github.com from 2021-08-01 until 2021-11-01
 Equipe de Robótica Aérea:
 	edsondearaujo: edsondearaujo!users.noreply.github.com, edsondearaujofga!gmail.com from 2019-10-01 until 2020-12-01
+EquipmentShare:
+	hscheib: hscheib!users.noreply.github.com from 2019-10-01
 Equiprise:
 	ning-kang: ning-kang!users.noreply.github.com from 2020-03-01 until 2021-11-01
 Equisafe:
@@ -2032,6 +2036,8 @@ Europace AG:
 Europcar Mobility:
 	alvarocabanas: alvarocabanas!users.noreply.github.com from 2018-10-01 until 2021-04-01
 	gfelixc: gfelixc!users.noreply.github.com from 2017-04-01
+European:
+	luis-silva: luis-silva!users.noreply.github.com from 2020-09-01 until 2022-03-01
 European Bioinformatics:
 	dvianello: dario.vianello87!gmail.com, dvianello!users.noreply.github.com from 2015-09-01 until 2018-02-01
 	pcm32: pablo.a.moreno!gmail.com, pcm32!users.noreply.github.com
@@ -3186,6 +3192,8 @@ F6S Network Limited:
 	thunderboltsid: siddharth.shukla!uber.com, siddharthshukla!outlook.com, thunderboltsid!users.noreply.github.com from 2016-08-01 until 2017-01-01
 F6S Network Limited (phone-io):
 	armstrongnate: armstrongnate!users.noreply.github.com, narmstrong!instructure.com, natearmstrong2!gmail.com from 2015-09-01 until 2016-01-01
+FABA CAPITAL:
+	lmctest: lmctest!users.noreply.github.com from 2020-02-01
 FABMation:
 	stayleen: stayleen!users.noreply.github.com
 FACE IT:
@@ -13011,6 +13019,7 @@ Google LLC:
 	ericandrewlewis: eric.andrew.lewis!gmail.com, ericandrewlewis!users.noreply.github.com from 2018-10-01
 	ericchiang: eric.chiang.m!gmail.com, ericchiang!google.com, ericchiang!users.noreply.github.com, rytis.karpuska!gmail.com from 2018-06-01
 	ericgribkoff: ericgribkoff!google.com, ericgribkoff!users.noreply.github.com from 2015-01-01 until 2015-03-01, from 2016-09-01
+	ericmand: ericmand!users.noreply.github.com until 2017-11-01
 	ericorth: ericorth!users.noreply.github.com
 	ericsoderstrom: ericsoderstrom!gmail.com
 	erictune: eric.tune!gmail.com, erictune!users.noreply.github.com, etune!google.com from 2005-02-14
@@ -15639,10 +15648,3 @@ Gravity:
 	verrchu: e_terekhin!pm.me from 2024-03-01
 Gravity Brands:
 	parkedwards: ed.sh.park!gmail.com, parkedwards!users.noreply.github.com from 2017-09-01 until 2018-03-01
-Gravity Payments:
-	audrey-bond: audrey-bond!users.noreply.github.com from 2018-04-01 until 2019-09-01
-	audrey-brightloom: audrey-brightloom!users.noreply.github.com from 2018-04-01 until 2019-09-01
-Gravy Live:
-	paulerickson: paul.d.erickson!gmail.com, paulerickson!users.noreply.github.com until 2017-02-01
-Gravyty:
-	antgel: antgel!users.noreply.github.com from 2017-08-01 until 2022-09-01

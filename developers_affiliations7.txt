@@ -5,6 +5,22 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+matthewmcnew: matthewmcnew!gmail.com, matthewmcnew!users.noreply.github.com, me!mattmcnew.com, mmcnew!pivotal.io
+	Pivotal
+matthewmichihara: matthew.michihara!gmail.com, matthewmichihara!users.noreply.github.com
+	Lookout Inc until 2014-03-01
+	Foursquare Labs Inc. from 2014-03-01 until 2018-02-01
+	Independent from 2018-02-01 until 2019-03-01
+	Google LLC from 2019-03-01
+matthewmodestino: matthewmodestino!users.noreply.github.com
+	TELUS until 2016-03-01
+	Splunk Inc. from 2016-03-01
+matthewoliver: matt!oliver.net.au
+	Rackspace until 2017-04-28
+	Independent from 2017-04-28
+mattheworiordan: mattheworiordan!users.noreply.github.com
+	Econsultancy until 2014-09-01
+	Ably Real-Time Ltd. from 2014-09-01
 matthewpereira: mail!matthewpereira.com
 	Independent until 2016-04-01
 	Statflo from 2016-04-01 until 2019-02-01
@@ -23801,21 +23817,3 @@ pmichna: pmichna!gmail.com, pmichna!users.noreply.github.com
 	Fresha from 2018-04-01
 pmikus: pmikus!cisco.com, pmikus!users.noreply.github.com
 	Cisco Systems Inc.
-pmint93: pmint93!users.noreply.github.com
-	Edumall.vn
-pmjohann: pmjohann!users.noreply.github.com
-	Netflow Consulting until 2016-01-01
-	Vodafone Business from 2016-01-01 until 2018-01-01
-	Centrum Circle from 2018-01-01 until 2019-03-01
-	QANplatform from 2019-03-01
-pmladek: pmladek!suse.cz
-	SUSE LLC
-pmlopes: paulo!mlopes.net, pmlopes!users.noreply.github.com
-	Red Hat Inc.
-pmm-sumo: pmm-sumo!users.noreply.github.com
-	Toptal LLC until 2015-07-01
-	ARHS Developments from 2015-07-01 until 2015-11-01
-	LogSenseApp from 2015-11-01 until 2019-12-01
-	Sumo Logic Inc. from 2019-12-01
-pmocek: pmocek!users.noreply.github.com
-	Independent

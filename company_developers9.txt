@@ -2683,6 +2683,7 @@ OTCR Consulting:
 	ishaansehgal99: ishaanforthewin!gmail.com from 2021-08-01 until 2021-12-01
 OTE:
 	isaranto: isaranto!users.noreply.github.com from 2018-09-01 until 2019-10-01
+	kondasoulas: kondasoulas!users.noreply.github.com from 2016-02-01 until 2022-05-01
 OTE Group:
 	AthinaPl: athina.plaskasoviti!gmail.com from 2019-08-01 until 2020-05-01
 	LavredisG: LavredisG!users.noreply.github.com from 2022-07-01 until 2022-08-01
@@ -9481,6 +9482,7 @@ Permission Data:
 Permit:
 	orweis: orweis!users.noreply.github.com from 2020-07-01
 Permit.io:
+	ericmand: ericmand!users.noreply.github.com from 2024-07-01
 	ozradi: ozradi!users.noreply.github.com from 2021-12-01
 Permutive:
 	Leenie: erleenelyder!gmail.com from 2021-06-01
@@ -16600,6 +16602,3 @@ Rad.co:
 	chartinmarrel: chartinmarrel!users.noreply.github.com from 2015-01-01 until 2016-12-01
 RadMas:
 	walterbaidal: walterbaidal!users.noreply.github.com from 2015-12-01 until 2016-07-01
-Radar:
-	bljordan: ben.jordan!returnpath.com, bljordan!users.noreply.github.com from 2020-07-01 until 2021-08-01
-	pchila: paolo.chila!dynatrace.com, paolo.chila!elastic.co, pchila!users.noreply.github.com from 2019-06-01 until 2020-02-01

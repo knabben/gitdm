@@ -5182,7 +5182,7 @@ Independent:
 	alexdutton: gh!alexdutton.co.uk until 2018-02-01
 	alexeldeib: alexeldeib!gmail.com, alexeldeib!users.noreply.github.com until 2015-05-01, from 2016-08-01 until 2017-07-01
 	alexey-boyko: alexey-boyko!users.noreply.github.com until 2016-06-01, from 2018-01-01 until 2018-04-01
-	alexeypukhov: alexey.pukhov!appdynamics.com, AlexeyPukhov!users.noreply.github.com, apukhov!cisco.com, puhov.alexey!gmail.com until 2013-12-11
+	alexeypukhov: AlexeyPukhov!users.noreply.github.com, alexey.pukhov!appdynamics.com, apukhov!cisco.com, puhov.alexey!gmail.com until 2013-12-11
 	alexeyzhuchkov: alexeyzhuchkov!users.noreply.github.com from 2018-06-01 until 2018-10-01
 	alexfouche: alexandre.fouche!gmail.com, alexfouche!users.noreply.github.com from 2014-06-01 until 2016-11-01
 	alexfridlyand: alex!fridlyand.com, alexfridlyand!users.noreply.github.com until 2015-01-01
@@ -9434,6 +9434,7 @@ Independent:
 	ericjohansson89: ericjohansson89!users.noreply.github.com from 2014-09-01 until 2015-05-01
 	erick-thompson: erick-thompson!users.noreply.github.com from 2016-01-01 until 2016-11-01, from 2018-09-01 until 2019-08-01
 	erickduran: erickduran!users.noreply.github.com until 2016-12-01, from 2017-03-01 until 2017-06-01, from 2017-12-01 until 2018-09-01
+	ericmand: ericmand!users.noreply.github.com from 2017-11-01 until 2019-09-01
 	ericmclachlan: ericmclachlan!gmail.com from 2017-07-01 until 2018-08-01
 	ericmillin: ericmillin!users.noreply.github.com until 2014-08-01, from 2015-04-01 until 2015-06-01
 	ericmustin: ericmustin!users.noreply.github.com from 2015-10-01 until 2016-06-01, from 2023-05-04 until 2025-07-07

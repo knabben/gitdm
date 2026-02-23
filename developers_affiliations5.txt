@@ -5,6 +5,8 @@
 # Note that email addresses below are "best effort" and are out-of-date
 # or inaccurate in many cases. Please do not rely on this email information
 # without verification.
+forkbomber: didyouforgettosetulimit!gmail.com, forkbomber!users.noreply.github.com
+	Independent
 forkjoseph: forkjoseph!users.noreply.github.com
 	Independent until 2018-06-01
 	AT&T from 2018-06-01 until 2018-08-01
@@ -11415,6 +11417,9 @@ hsargsyan: harsar3!gmail.com
 	Sagittarius from 2019-02-01
 hsbt: hsbt!ruby-lang.org, hsbt!users.noreply.github.com, shibata.hiroshi!gmail.com
 	GMO Pepabo Co. Ltd.
+hscheib: hscheib!users.noreply.github.com
+	Carfax Inc. until 2019-10-01
+	EquipmentShare from 2019-10-01
 hsdenx: hs!denx.de
 	DENX Software Engineering GmbH (DENX)
 hsdmiranda: hsdmiranda!gmail.com, hsdmiranda!users.noreply.github.com
@@ -23890,7 +23895,3 @@ joeblackwaslike: joeblackwaslike!me.com, joeblackwaslike!users.noreply.github.co
 	SeeThru from 2019-04-01 until 2019-08-01
 	Code and Theory LLC from 2019-08-01 until 2020-03-01
 	Independent from 2020-03-01
-joeblubaugh: joe!lightstep.com, joeblubaugh!users.noreply.github.com
-	Twitter Inc. until 2016-11-01
-	LightStep Inc. from 2016-11-01 until 2022-03-01
-	Grafana Labs from 2022-03-01

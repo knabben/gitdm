@@ -2,6 +2,25 @@
 # If you see an error, please update developers_affiliations.txt and this file will be fixed
 # when regenerated.
 #be:
+coModule:
+	KumarAmitMehta: gmate.amit!gmail.com from 2015-04-01 until 2016-09-01
+coala Association:
+	Techievena: Techievena!users.noreply.github.com, abinashsena!gmail.com from 2018-07-01 until 2019-02-01
+	ayan-b: ayan-b!users.noreply.github.com, ayanbanerjee7777!gmail.com, ayanbn7!gmail.com from 2018-10-01 until 2019-05-01
+	prashant0598: nigamprashant.0598!gmail.com, prashant0598!users.noreply.github.com from 2017-10-01 until 2017-12-01
+coala Association e.V.:
+	aptrishu: code.rishus23!gmail.com from 2017-12-01 until 2018-08-01
+	palash25: npalash25!gmail.com, palash25!users.noreply.github.com from 2018-03-01 until 2018-08-01
+cobinhood:
+	thlu-cobinhood: thlu-cobinhood!users.noreply.github.com
+cocaine:
+	maxaudron: audron!cocaine.farm, maxaudron!users.noreply.github.com
+cocotb:
+	imphil: imphil!philipp-wagner.com, imphil!users.noreply.github.com, philipp.wagner!tum.de from 2021-10-01 until 2021-12-01
+codar:
+	githubcdr: githubcdr!users.noreply.github.com
+code:
+	meichstedt: meichstedt!users.noreply.github.com until 2015-05-01
 code simply:
 	jcap: jcap!users.noreply.github.com until 2015-01-01
 code-x GmbH:
@@ -2043,6 +2062,8 @@ i2O:
 	whawker: w.d.hawker!gmail.com, whawker!users.noreply.github.com from 2017-07-01 until 2017-12-01
 i2c:
 	AFKD98: AFKD98!users.noreply.github.com from 2020-08-01 until 2021-01-01
+i3 CZ s.r.o.:
+	lmctest: lmctest!users.noreply.github.com from 2014-01-01 until 2020-02-01
 i3 Digital Health:
 	xr-dev-saurabh: xr-dev-saurabh!users.noreply.github.com from 2022-05-01 until 2022-07-01
 iA:
